@@ -1,0 +1,199 @@
+{
+  "profile": {
+    "name": "Himanshu Doye",
+    "title": "Senior Software Engineer",
+    "bio": "Results-driven Senior Software Engineer with 8+ years of experience in full-stack development, cloud architecture, and team leadership. Passionate about building scalable applications and mentoring junior developers. Specialized in React, Node.js, and cloud-native technologies with a track record of delivering high-impact projects for enterprise clients.",
+    "avatar": "https://media.istockphoto.com/id/1369199360/photo/portrait-of-a-handsome-young-businessman-working-in-office.jpg?s=612x612&w=0&k=20&c=ujyGdu8jKI2UB5515XZA33Tt4DBhDU19dKSTUTMZvrg=",
+    "contact": {
+      "email": "himanshu.Doye@example.com",
+      "github": "himanshudoye-dev",
+      "linkedin": "himanshu-Doye",
+      "location": "Pune Maharastra India"
+    },
+    "theme": {
+      "mode": "dark",
+      "accentColor": "purple",
+      "backgroundStyle": "gradient"
+    }
+  },
+  "skills": [
+    {
+      "category": "Frontend Development",
+      "icon": "code",
+      "items": ["React", "TypeScript", "Next.js", "Redux", "Tailwind CSS", "Material-UI", "WebGL", "Jest", "React Testing Library", "Webpack", "GraphQL"]
+    },
+    {
+      "category": "Backend Development",
+      "icon": "server",
+      "items": ["Node.js", "Python", "Java", "Express.js", "NestJS", "PostgreSQL", "MongoDB", "Redis", "RabbitMQ", "RESTful APIs", "Microservices"]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "icon": "cloud",
+      "items": ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform", "GitHub Actions", "Jenkins", "ELK Stack", "Prometheus", "Grafana"]
+    },
+    {
+      "category": "Architecture & Methods",
+      "icon": "git-branch",
+      "items": ["System Design", "Domain-Driven Design", "Event-Driven Architecture", "Agile/Scrum", "TDD", "Design Patterns", "Microservices"]
+    },
+    {
+      "category": "Team Leadership",
+      "icon": "users",
+      "items": ["Technical Leadership", "Mentoring", "Code Reviews", "Agile Project Management", "Cross-functional Collaboration", "Technical Documentation"]
+    },
+    {
+      "category": "Tools & Productivity",
+      "icon": "tool",
+      "items": ["Git", "VS Code", "Jira", "Confluence", "Figma", "Postman", "Linear", "DataDog","Postman"]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "TechCorp Solutions",
+      "period": "2021 - Present",
+      "description": "Lead engineer for the cloud-native transformation initiative, architecting and implementing scalable microservices. Mentored junior developers and established best practices for the engineering team. Reduced deployment time by 70% through CI/CD automation and containerization.",
+      "technologies": ["React", "Node.js", "TypeScript", "AWS", "Kubernetes", "GraphQL"],
+      "highlights": [
+        "Led team of 8 developers in successful cloud migration",
+        "Reduced infrastructure costs by 40%",
+        "Implemented automated testing pipeline"
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "InnovateSoft Inc.",
+      "period": "2018 - 2021",
+      "description": "Developed and maintained multiple high-traffic web applications serving millions of users. Implemented real-time features using WebSocket and designed efficient data synchronization systems. Improved application performance by 40% through optimization and caching strategies.",
+      "technologies": ["React", "Python", "PostgreSQL", "Redis", "Docker", "AWS"],
+      "highlights": [
+        "Optimized database queries reducing load times by 60%",
+        "Implemented real-time collaboration features",
+        "Mentored 4 junior developers"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "DataFlow Systems",
+      "period": "2015 - 2018",
+      "description": "Built data processing pipelines handling terabytes of data daily. Developed RESTful APIs and implemented authentication systems. Collaborated with data scientists to create visualization tools for complex datasets.",
+      "technologies": ["Java", "Spring Boot", "MongoDB", "Apache Kafka", "Elasticsearch"],
+      "highlights": [
+        "Designed scalable data processing pipeline",
+        "Reduced data processing time by 70%",
+        "Implemented secure API gateway"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Enterprise Resource Planning System",
+      "description": "Led the development of a cloud-native ERP system serving 500+ enterprise clients. Implemented real-time analytics, custom reporting, and integration with third-party services. Achieved 99.99% uptime and reduced operational costs by 35%.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop",
+      "technologies": ["React", "TypeScript", "Node.js", "PostgreSQL", "Redis", "AWS"],
+      "link": "https://github.com/example/enterprise-erp",
+      "featured": true,
+      "stats": {
+        "users": "500+",
+        "uptime": "99.99%",
+        "costReduction": "35%"
+      }
+    },
+    {
+      "title": "Real-time Collaboration Platform",
+      "description": "Architected and built a real-time collaboration platform supporting document editing, video conferencing, and team chat. Implemented WebRTC for peer-to-peer communication and optimized for low-latency operations.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=500&h=300&fit=crop",
+      "technologies": ["React", "WebRTC", "Socket.io", "Redis", "MongoDB", "Docker"],
+      "link": "https://github.com/example/collab-platform",
+      "featured": true,
+      "stats": {
+        "users": "10K+",
+        "latency": "<100ms",
+        "availability": "99.9%"
+      }
+    },
+    {
+      "title": "AI-Powered Analytics Dashboard",
+      "description": "Developed a machine learning-powered analytics dashboard for business intelligence. Integrated with multiple data sources and implemented predictive analytics features. Reduced data processing time by 60%.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
+      "technologies": ["React", "Python", "TensorFlow", "PostgreSQL", "AWS"],
+      "link": "https://github.com/example/ai-analytics",
+      "featured": true,
+      "stats": {
+        "accuracy": "95%",
+        "speedup": "60%",
+        "dataPoints": "1M+"
+      }
+    },
+    {
+      "title": "Microservices Migration Framework",
+      "description": "Created a framework for migrating monolithic applications to microservices architecture. Implemented service discovery, load balancing, and circuit breaking patterns. Successfully migrated 5 enterprise applications.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&h=300&fit=crop",
+      "technologies": ["Node.js", "Kubernetes", "Docker", "Istio", "Terraform"],
+      "link": "https://github.com/example/micro-framework",
+      "featured": true,
+      "stats": {
+        "migrations": "5",
+        "uptime": "99.99%",
+        "scalability": "10x"
+      }
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S. in Computer Science",
+      "school": "Stanford University",
+      "period": "2013 - 2015",
+      "gpa": "3.9/4.0",
+      "courses": [
+        "Advanced Algorithms",
+        "Distributed Systems",
+        "Machine Learning",
+        "Cloud Computing"
+      ],
+      "achievements": [
+        "Graduate Research Assistant",
+        "Published 2 papers in distributed systems"
+      ]
+    },
+    {
+      "degree": "B.S. in Computer Science",
+      "school": "University of California, Berkeley",
+      "period": "2009 - 2013",
+      "gpa": "3.8/4.0",
+      "courses": [
+        "Data Structures",
+        "Operating Systems",
+        "Computer Networks",
+        "Software Engineering"
+      ],
+      "achievements": [
+        "Dean's List all semesters",
+        "Senior Project Award"
+      ]
+    },
+    {
+      "degree": "Cloud Architecture Certification",
+      "school": "AWS Certified Solutions Architect - Professional",
+      "period": "2022",
+      "certificationId": "AWS-PSA-123456",
+      "validUntil": "2025",
+      "achievements": [
+        "Top 5% score in certification exam",
+        "Completed advanced architecture case studies"
+      ]
+    },
+    {
+      "degree": "Java Full Stack Certification",
+      "school": "RI Equation",
+      "period": "2024",
+      "certificationId": "JSF-PSA-123456",
+      "validUntil": "2025",
+      "achievements": [
+        "Top 5% score in certification exam",
+        "Completed advanced architecture case studies"
+      ]
+    }
+  ]
+}
